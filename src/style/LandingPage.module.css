@@ -1,0 +1,23 @@
+.Landing{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    margin: 50px 0;
+}
+.map{
+    border:  2px solid gray;
+    border-radius: 5px;
+}
+input{
+    width: 250px;
+    height: 40px;
+    margin: 30px 0;
+    border-radius: 30px;
+    background-color: #ffffff00;
+    outline: none;
+    border: 1px solid gray;
+    padding: 0 20px;
+    color: white;
+}

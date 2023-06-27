@@ -1,0 +1,38 @@
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 800px;
+    height: 70px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.425);
+    margin: 0 20px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 200px;
+}
+.title img{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    margin: 0 10px;
+}
+h3{
+    width: 220px;
+    color: white;
+}
+p {
+    color: white;
+    width: 100px;
+}
+h4{
+    color: white;
+}
+.red{
+    color: #dd0d0d;
+}
+.green{
+    color: rgb(37, 180, 37);
+}
